@@ -122,11 +122,15 @@ DirSyncHub は、**Active Directory（AD）専用**の認証・検索 API サー
   通常起動
 
 ---
+  
+## API ドキュメント
+
+- OpenAPI HTML（ReDoc）: [docs/api/index.html](docs/api/index.html)
+
+---
 
 ## 主なエンドポイント
 
-- `GET /openapi/v1.json`（OpenAPI 定義）
-- [OpenAPI HTML（ReDoc）](docs/api/index.html)
 - `POST /api/dshub/v1/login`（認証）
 - `GET /api/dshub/v1/health`（ヘルスチェック）
 - `POST /api/dshub/v1/directory/users/search`（ユーザー検索）
