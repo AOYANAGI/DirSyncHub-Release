@@ -7,9 +7,9 @@ DirSyncHub は、**Active Directory（AD）専用**の認証・検索 API サー
 
 ## 今後の予定
 
-- LDAP 対応を将来的に追加予定
-- Linux 対応を将来的に追加予定
-- API 経由で AD のユーザー/グループ作成機能を将来的に追加予定
+- コアディレクトリの LDAP 対応
+- Linux 対応
+- API 経由で AD のユーザー/グループ作成機能
 
 ---
 
