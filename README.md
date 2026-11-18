@@ -125,7 +125,7 @@ DirSyncHub は、**Active Directory（AD）専用**の認証・検索 API サー
   
 ## API ドキュメント
 
-- OpenAPI HTML（ReDoc）: [docs/api/index.html](docs/api/index.html)
+- OpenAPI HTML（ReDoc）: [https://aoyanagi.github.io/DirSyncHub/api/)
 
 ---
 
